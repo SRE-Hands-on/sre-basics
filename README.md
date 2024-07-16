@@ -8,7 +8,7 @@ Site Reliability Engineering (SRE) incorporates aspects of software engineering 
 
 Network concepts and TLS are essential for SRE as they form the backbone of secure, reliable and efficient service delivery.
 
-[Network and Security] (https://github.com/SRE-Hands-on/network-and-security) - See a bit depper concepts on this repo
+[Network and Security](https://github.com/SRE-Hands-on/network-and-security) - See a bit depper concepts on this repo
 
 
 ## Coding and Testing
